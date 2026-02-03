@@ -1,1 +1,1 @@
-[Click here to visualize PDF](./dispensasdf.pdf)
+[Click here to download PDF](./dispensasdf.pdf)
